@@ -30,15 +30,6 @@ python3 -m venv uplift_env
 pip install -r requirements.txt
 ```
 
-
-## Запустите Jupyter Lab
-
-Запустите Jupyter Lab в командной строке
-
-```
-jupyter lab --ip=0.0.0.0 --no-browser
-```
-
 # Полезный код
 
 в `utils.py` лежит код, который может помочь вам при выполнении проекта
